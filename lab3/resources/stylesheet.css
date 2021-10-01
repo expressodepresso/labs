@@ -1,0 +1,85 @@
+header.top{
+	font-size: 90px;
+	color: white;
+	background-image: url(metro_20171121_tech-empowers-tech-polarizes-mark-muro.jpg);
+}
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+  position: sticky;
+  top: 0;
+}
+.open-button {
+  display: block;
+  color: white;
+	align-content: center;
+	left:40%;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	background-color: #111;
+}
+p{
+	font-size: 30px;
+}
+ul.socials{
+	list-style-type: none;
+	margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+img.nav{
+	padding:0;
+	float: left;
+}
+
+img.faces{
+	padding:0;
+	height: 300px;
+}
+img.news{
+	padding:0;
+	height: 400px;
+}
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+li.nav {
+  float: left;
+	border-right:1px solid #bbb
+}
+
+li a.navbar {
+  display: block;
+  color: white;
+	align-content: center;
+	left:40%;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a.socials {
+  display: block;
+	width: 150px;
+	writing-mode: horizontal-tb;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #474242;
+}
+
+
